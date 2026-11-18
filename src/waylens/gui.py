@@ -37,16 +37,6 @@ headerbar, AdwHeaderBar {
     color: #fff1f2;
     min-height: 42px;
 }
-windowcontrols button {
-    min-width: 18px;
-    min-height: 18px;
-    padding: 2px;
-    margin: 0 2px;
-    border-radius: 9999px;
-}
-windowcontrols button image {
-    -gtk-icon-size: 12px;
-}
 .threat-banner-ok {
     background: rgba(6, 36, 28, 0.90);
     border: 1px solid rgba(16, 185, 129, 0.36);
